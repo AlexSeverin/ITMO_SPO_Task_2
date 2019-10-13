@@ -1,3 +1,4 @@
 # ITMO_SPO_Task_2
 bash скрипт, который будет загружать на ваш компьютер проект с репозитория GitHub с последующей его сборкой и расположением файлов в системные папки. 
-2.	https://github.com/cjdelisle/cjdns 
+2. https://github.com/cjdelisle/cjdns 
+
